@@ -25,4 +25,5 @@ export class AppComponent {
     this.resultado=this.numero1/this.numero2;
   }
 }
-
+// Aplicacion Creada por JAVIER ANDRES TOLOSA RIVERA //
+// Aplication made by por JAVIER ANDRES TOLOSA RIVERA //
